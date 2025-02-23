@@ -1,4 +1,4 @@
-# Ah-day-ah-yoh devlogs
+# Devlogs
 
 Portfolio website repository.
 
